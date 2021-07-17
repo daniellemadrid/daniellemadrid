@@ -1,8 +1,6 @@
  <h3>Hi guys, I'm Dani !! Let's get to know each other?👋</h3>
-
 <br>
-Well, I'm 18 years old, I'm from Viamão-RS. I am currently at the Internet Computer Technician at Senac-RS. I've been passionate about technology since 2019. Since then I've been trying to improve my social skills and develop myself to be a great professional. 👩‍💻❤
-
+Well, I'm 18 years old, I'm from Viamão-RS. I am currently at the Internet Computer Technician at Senac-RS. I've been passionate about technology since 2019. Since then I've been trying to improve my soft skills and develop myself to be a great professional. 👩‍💻❤
 <br>
 <br>
 
@@ -11,7 +9,7 @@ Well, I'm 18 years old, I'm from Viamão-RS. I am currently at the Internet Comp
 - I really like working in groups 🤝
 
 <br>
-<img src="https://lh3.googleusercontent.com/proxy/-G_QZbf96s746WBK_UIpGwn629uZuL5T9cL0deN_exSxBCmQQQQWybXGIjhVjwv-ORB9Ob-Yrg68Mj_fSUouD92YH02WVCEIe7PrqmOoSBju41MMLMizwUJbqMLYqN0" width="100" height="100" align="left"/>
+<img src="https://media0.giphy.com/media/7FgIb4R4wtE744CyXZ/giphy.gif" width="100" height="100" align="left"/>
 <br>
 <br>
 <img src="https://i.pinimg.com/originals/a7/46/87/a74687ad4323e30d501483458f3f6a38.gif" width="100" height="100" align="left"  />
