@@ -21,6 +21,7 @@ Bom, eu tenho 18 anos e sou de Viamão-RS. Estudo e trabalho na área da tecnolo
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellemadrid&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellemadrid&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
 <p><STRONG>Meios de Contato:</STRONG></p>
 <a href="https://www.linkedin.com/in/daniellermadrid/" />
 <img src=https://user-images.githubusercontent.com/49623007/125862796-a6d61c0e-4537-46f9-9db6-39173b4b3b7b.png height="50" align="left">
