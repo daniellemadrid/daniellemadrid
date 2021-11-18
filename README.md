@@ -15,12 +15,11 @@ Bom, eu tenho 18 anos e sou de Viamão-RS. Estudo e trabalho na área da tecnolo
 <img src="https://i.pinimg.com/originals/a7/46/87/a74687ad4323e30d501483458f3f6a38.gif" width="100" height="100" align="left"  />
 <br>
 <img src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif"  width="100" height="100" />
-<p><STRONG>Minhas Estatísticas:</STRONG></p>
+
 
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellemadrid&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<p><STRONG>Linguagens:</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellemadrid&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
