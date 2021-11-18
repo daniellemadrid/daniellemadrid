@@ -26,7 +26,7 @@ Well, I'm 18 years old, I'm from Viamão-RS. I am currently at the Internet Comp
 <br>
 <p><STRONG>My social media:</STRONG></p>
 <a href="https://www.linkedin.com/in/daniellermadrid/" />
-<img src=https://user-images.githubusercontent.com/49623007/125862796-a6d61c0e-4537-46f9-9db6-39173b4b3b7b.png height="22" align="left">
+<img src=https://user-images.githubusercontent.com/49623007/125862796-a6d61c0e-4537-46f9-9db6-39173b4b3b7b.png height="50" align="left">
 <a href="https://www.instagram.com/_dwho"/>
 <img src=https://user-images.githubusercontent.com/49623007/125863010-2c8ec704-5415-43c2-8db4-c28b5dde17a4.png height="22" align="left">
 <a href="https://twitter.com/_dwho"/>
