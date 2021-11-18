@@ -1,12 +1,12 @@
  <h3>Olá pessoal, tudo bem? Eu sou a Dani 👋</h3>
 <br>
-Bom, eu tenho 18 anos e sou de Viamão-RS. Estudo e trabalho na área da tecnologia há 2 anos e desde então procuro aperfeiçoar minhas soft e hard skill,para me tornar uma ótima profissional 👩‍💻
+Bom, eu tenho 18 anos e sou de Viamão-RS. Estudo e trabalho na área da tecnologia há 2 anos e desde então procuro aperfeiçoar minhas soft e hard skill, para me tornar uma ótima profissional 👩‍💻
 <br>
 <br>
 
 - Fazendo Técnico de Desenvolvimento Web 💻
 - Gosto de conhecer pessoas e trabalhar em grupo 🤝
-- Desenvolvo tanto em frontend quanto backend, estou sempre aberta a conhecere coisas novas 💡
+- Desenvolvo tanto em frontend quanto backend, estou sempre aberta a conhecer coisas novas 💡
 
 <br>
 <img src="https://media0.giphy.com/media/7FgIb4R4wtE744CyXZ/giphy.gif" width="100" height="100" align="left"/>
