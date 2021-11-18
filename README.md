@@ -1,12 +1,12 @@
- <h3>Hi guys, I'm Dani !! Let's get to know each other?👋</h3>
+ <h3>Olá pessoal, tudo bem? Eu sou a Dani 👋</h3>
 <br>
-Well, I'm 18 years old, I'm from Viamão-RS. I am currently at the Internet Computer Technician at Senac-RS. I've been passionate about technology since 2019. Since then I've been trying to improve my soft skills and develop myself to be a great professional. 👩‍💻❤
+Bom, eu tenho 18 anos e sou de Viamão-RS. Estudo e trabalho na área da tecnologia há 2 anos e desde então procuro aperfeiçoar minhas soft e hard skill,para me tornar uma ótima profissional 👩‍💻
 <br>
 <br>
 
-- I really like to read 📚
-- I like to talk and meet people 🗣️
-- I really like working in groups 🤝
+- Fazendo Técnico de Desenvolvimento Web 💻
+- Gosto de conhecer pessoas e trabalhar em grupo 🤝
+- Desenvolvo tanto em frontend quanto backend, estou sempre aberta a conhecere coisas novas 💡
 
 <br>
 <img src="https://media0.giphy.com/media/7FgIb4R4wtE744CyXZ/giphy.gif" width="100" height="100" align="left"/>
@@ -20,11 +20,11 @@ Well, I'm 18 years old, I'm from Viamão-RS. I am currently at the Internet Comp
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellemadrid&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<p><STRONG>Languages:</STRONG></p>
+<p><STRONG>Linguagens:</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellemadrid&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<p><STRONG>My social media:</STRONG></p>
+<p><STRONG>Meios de Contato:</STRONG></p>
 <a href="https://www.linkedin.com/in/daniellermadrid/" />
 <img src=https://user-images.githubusercontent.com/49623007/125862796-a6d61c0e-4537-46f9-9db6-39173b4b3b7b.png height="50" align="left">
 <a href="https://www.instagram.com/_dwho"/>
