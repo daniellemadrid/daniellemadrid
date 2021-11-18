@@ -28,9 +28,9 @@ Well, I'm 18 years old, I'm from Viamão-RS. I am currently at the Internet Comp
 <a href="https://www.linkedin.com/in/daniellermadrid/" />
 <img src=https://user-images.githubusercontent.com/49623007/125862796-a6d61c0e-4537-46f9-9db6-39173b4b3b7b.png height="50" align="left">
 <a href="https://www.instagram.com/_dwho"/>
-<img src=https://user-images.githubusercontent.com/49623007/125863010-2c8ec704-5415-43c2-8db4-c28b5dde17a4.png height="22" align="left">
+<img src=https://user-images.githubusercontent.com/49623007/125863010-2c8ec704-5415-43c2-8db4-c28b5dde17a4.png height="50" align="left">
 <a href="https://twitter.com/_dwho"/>
-<img src=https://user-images.githubusercontent.com/49623007/125863062-b5b22168-48ff-43d3-a0f6-b135abe5b1b4.png height="22" align="left">
-<a href="https://www.facebook.com/danielle.madrid.96"/>                                                                                                                            <img src=https://user-images.githubusercontent.com/49623007/125863125-f42c7d32-f3f2-4a5a-be1b-9867c6697336.png height="22" align="left">
+<img src=https://user-images.githubusercontent.com/49623007/125863062-b5b22168-48ff-43d3-a0f6-b135abe5b1b4.png height="50" align="left">
+<a href="https://www.facebook.com/danielle.madrid.96"/>                                                                                                                            <img src=https://user-images.githubusercontent.com/49623007/125863125-f42c7d32-f3f2-4a5a-be1b-9867c6697336.png height="50" align="left">
 <a href="mailto:daniellereismadridd@gmail.com"/>
-<img src=https://user-images.githubusercontent.com/49623007/125863208-4fc34aee-09cd-4627-8aa3-3d632971d8e6.png height="22" align="left">
+<img src=https://user-images.githubusercontent.com/49623007/125863208-4fc34aee-09cd-4627-8aa3-3d632971d8e6.png height="50" align="left">
