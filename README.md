@@ -1,6 +1,6 @@
  <h3>Olá pessoal, tudo bem? Eu sou a Dani 👋</h3>
 <br>
-Bom, eu tenho 18 anos e sou de Viamão-RS. Estudo e trabalho na área da tecnologia há 2 anos e desde então procuro aperfeiçoar minhas soft e hard skill, para me tornar uma ótima profissional 👩‍💻
+Bom, eu tenho 18 anos e sou de Viamão-RS. Estudo e trabalho na área da tecnologia há 2 anos e desde então procuro aprimorar minhas soft e hard skill, para me tornar uma ótima profissional 👩‍💻
 <br>
 <br>
 
