@@ -1,6 +1,7 @@
- <h3>Olá pessoal, tudo bem? Eu sou a Dani 👋</h3>
+ <h3Olá, tudo bem?? 👋</h3>
 <br>
-Bom, eu tenho 18 anos e sou de Viamão-RS. Estudo e trabalho na área da tecnologia há 2 anos e desde então procuro aprimorar minhas soft e hard skill, para me tornar uma ótima profissional 👩‍💻
+Sou a Dani!!!
+Tenho 18 anos e há 2 anos me encontrei na área de tecnologia, tive oportunidades incríveis de desenvolvimento em projetos com React, Java, estudando e implementando testes voltados ao desenvolvimento, utilizando metodologias ágeis a fim de obter um aprendizado e entrega contínua, feedbacks ativos e uma troca muito rica de conhecimento entre o time, conhecendo pessoas novas e me conectando cada dia mais com o mundo da programação.
 <br>
 <br>
 
