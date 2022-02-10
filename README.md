@@ -1,7 +1,7 @@
  <h3> Olá, tudo bem?? 👋</h3>
 <br>
 Sou a Dani!!!
-Tenho 19 anos e há 4 anos me encontrei na área de tecnologia, tive oportunidades incríveis de desenvolvimento em projetos com React, Java, estudando e implementando testes voltados ao desenvolvimento, utilizando metodologias ágeis a fim de obter um aprendizado e entrega contínua, feedbacks ativos e uma troca muito rica de conhecimento entre o time, conhecendo pessoas novas e me conectando cada dia mais com o mundo da programação.
+Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidades incríveis de desenvolvimento em projetos com React, Java, estudando e implementando testes voltados ao desenvolvimento, utilizando metodologias ágeis a fim de obter um aprendizado e entrega contínua, feedbacks ativos e uma troca muito rica de conhecimento entre o time, conhecendo pessoas novas e me conectando cada dia mais com o mundo da programação.
 <br>
 <br>
 
