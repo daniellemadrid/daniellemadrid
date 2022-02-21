@@ -12,8 +12,8 @@ Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidad
 <br>
 
 <div>
-<img src="https://media0.giphy.com/media/7FgIb4R4wtE744CyXZ/giphy.gif" width="100" height="100" align="left"/>
-<img src="https://i.pinimg.com/originals/a7/46/87/a74687ad4323e30d501483458f3f6a38.gif" width="100" height="100" align="left"  />
+<img src="https://media0.giphy.com/media/7FgIb4R4wtE744CyXZ/giphy.gif" width="100" height="100"/>
+<img src="https://i.pinimg.com/originals/a7/46/87/a74687ad4323e30d501483458f3f6a38.gif" width="100" height="100"/>
 <img src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif"  width="100" height="100" />
 </div>
 
