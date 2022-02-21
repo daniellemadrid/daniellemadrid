@@ -23,8 +23,10 @@ Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidad
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellemadrid&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<div>
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+ </div>
 
-<p><STRONG>Meios de Contato:</STRONG></p>
 <a href="https://www.linkedin.com/in/daniellermadrid/" />
 <img src=https://user-images.githubusercontent.com/49623007/125862796-a6d61c0e-4537-46f9-9db6-39173b4b3b7b.png height="50" align="left">
 <a href="https://www.instagram.com/_dwho"/>
