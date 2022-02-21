@@ -18,11 +18,11 @@ Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidad
 <img src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif"  width="100" height="100" />
 <br>
 
-
+<div>
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellemadrid&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellemadrid&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+</div>
 
 <div>
  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
@@ -35,15 +35,9 @@ Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidad
  
  <div>
  <a href="https://github.com/daniellemdrid"> </a>
- <a href="https://instagram.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
- </div>
-
-<a href="https://www.linkedin.com/in/daniellermadrid/" />
-<img src=https://user-images.githubusercontent.com/49623007/125862796-a6d61c0e-4537-46f9-9db6-39173b4b3b7b.png height="50" align="left">
-<a href="https://www.instagram.com/_dwho"/>
-<img src=https://user-images.githubusercontent.com/49623007/125863010-2c8ec704-5415-43c2-8db4-c28b5dde17a4.png height="50" align="left">
-<a href="https://twitter.com/_dwho"/>
-<img src=https://user-images.githubusercontent.com/49623007/125863062-b5b22168-48ff-43d3-a0f6-b135abe5b1b4.png height="50" align="left">
-<a href="https://www.facebook.com/danielle.madrid.96"/>                                                                                                                            <img src=https://user-images.githubusercontent.com/49623007/125863125-f42c7d32-f3f2-4a5a-be1b-9867c6697336.png height="50" align="left">
-<a href="mailto:daniellereismadridd@gmail.com"/>
-<img src=https://user-images.githubusercontent.com/49623007/125863208-4fc34aee-09cd-4627-8aa3-3d632971d8e6.png height="50" align="left">
+ <a href="https://www.instagram.com/_dwho" rel="nofollow"><img            src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-
+src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://discord.gg/575437970463522872" rel="nofollow"><img       src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="daniellereismadridd@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/daniellermadrid/" rel="nofollow"><img       src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-                         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
+</div>
