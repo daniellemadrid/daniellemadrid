@@ -15,6 +15,8 @@ Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidad
 <img src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif"  width="100" height="100" />
 </div>
 
+<br>
+
 <div>
  
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellemadrid&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
