@@ -21,11 +21,12 @@ Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidad
 
 <div>
  
-[![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellemadrid&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+[![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellemadrid&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) <img height="180em"  style="max-width: 100%;"
  
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellemadrid&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+height="180em"  style="max-width: 100%;"
  
 </div>
 
