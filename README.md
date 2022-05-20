@@ -21,6 +21,7 @@ Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidad
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=daniellemadrid&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%;">
+ 
 
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellemadrid&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
