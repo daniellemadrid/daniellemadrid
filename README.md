@@ -5,7 +5,8 @@ Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidad
 <br>
 <br>
 
-- Fazendo Técnico de Desenvolvimento Web 💻
+- Cursando Engenharia de Software - Pucrs
+- Formada em Técnico de Desenvolvimento Web no Senac 💻
 - Gosto de conhecer pessoas e trabalhar em grupo 🤝
 - Desenvolvo tanto em frontend quanto backend, estou sempre aberta a conhecer coisas novas 💡
 
