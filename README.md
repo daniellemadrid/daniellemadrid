@@ -1,14 +1,12 @@
- <h3> Olá, tudo bem?? 👋</h3>
+ <h3>What's up?👋</h3>
 <br>
-Sou a Dani!!!
-Tenho 19 anos e há 3 anos me encontrei na área de tecnologia, tive oportunidades incríveis de desenvolvimento em projetos com React, Java, estudando e implementando testes voltados ao desenvolvimento, utilizando metodologias ágeis a fim de obter um aprendizado e entrega contínua, feedbacks ativos e uma troca muito rica de conhecimento entre o time, conhecendo pessoas novas e me conectando cada dia mais com o mundo da programação.
+Hi, I'm Dani!
+3 years ago I found myself in the technology field, I am motivated and passionate about how technology can impact people's lives. I had incredible development opportunities in projects with React, Java, studying and implementing tests, using agile methodologies in order to obtain continuous learning and delivery, active feedbacks and a very rich exchange of knowledge between teams, meeting new people and connecting every day more with the world of programming.
 <br>
 <br>
 
-- Cursando Engenharia de Software - PUCRS
-- Formada em Técnico de Desenvolvimento Web no Senac 💻
-- Gosto de conhecer pessoas e trabalhar em grupo 🤝
-- Desenvolvo tanto em frontend quanto backend, estou sempre aberta a conhecer coisas novas 💡
+- Graduation in Software Engineering, PUCRS
+-  Web Development Technician, Senac-RS
 
 <br>
 
