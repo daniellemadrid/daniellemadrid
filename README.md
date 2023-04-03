@@ -1,6 +1,6 @@
  <h3>What's up?👋</h3>
 <br>
-Hi, I'm Dani! 3 years ago I found myself in the technology field, I am motivated and passionate about how technology can impact people's lives. I had incredible development opportunities in projects with React, Java, studying and implementing tests, using agile methodologies in order to obtain continuous learning and delivery, active feedbacks and a very rich exchange of knowledge between teams, meeting new people and connecting every day more with the world of programming.
+Hi, I'm Dani! 4 years ago I found myself in the technology field, I am motivated and passionate about how technology can impact people's lives. I had incredible development opportunities in projects with React, Java, studying and implementing tests, using agile methodologies in order to obtain continuous learning and delivery, active feedbacks and a very rich exchange of knowledge between teams, meeting new people and connecting every day more with the world of programming.
 <br>
 <br>
 
