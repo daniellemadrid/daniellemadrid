@@ -1,6 +1,6 @@
- <h3>Oie, tudo bem?👋</h3>
+ <h3>Oie, tudo bem? Sou a Dani 👋</h3>
 <br>
-Sou a Dani, desenvolvedora de software full-stack há 3 anos. 
+Desenvolvedora de software full-stack há 3 anos. 
 <br>
 <br>
 
