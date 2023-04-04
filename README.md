@@ -1,11 +1,11 @@
- <h3>What's up?👋</h3>
+ <h3>Oie, tudo bem?👋</h3>
 <br>
-Hi, I'm Dani! 4 years ago I found myself in the technology field, I am motivated and passionate about how technology can impact people's lives. I had incredible development opportunities in projects with React, Java, studying and implementing tests, using agile methodologies in order to obtain continuous learning and delivery, active feedbacks and a very rich exchange of knowledge between teams, meeting new people and connecting every day more with the world of programming.
+Sou a Dani, desenvolvedora de software full-stack há 3 anos. 
 <br>
 <br>
 
-- Graduation in Software Engineering, PUCRS
--  Web Development Technician, Senac-RS
+- Engenharia de Software, PUCRS
+-  Desenvolvimento Web, Senac-RS
 
 <br>
 
