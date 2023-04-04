@@ -1,11 +1,11 @@
  <h3>Oie, tudo bem? Sou a Dani 👋</h3>
 <br>
 <br>
--
+
 - Desenvolvedora de software full-stack há 3 anos.
-- 
--  Engenharia de Software, PUCRS.
 -  
+-  Engenharia de Software, PUCRS.
+
 -  Desenvolvimento Web, Senac-RS.
 
 <br>
