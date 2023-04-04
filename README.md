@@ -3,7 +3,7 @@
 <br>
 
 - Desenvolvedora de software full-stack há 3 anos.
--  
+
 -  Engenharia de Software, PUCRS.
 
 -  Desenvolvimento Web, Senac-RS.
