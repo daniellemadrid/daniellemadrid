@@ -1,10 +1,10 @@
- <h3>Oie, tudo bem? Sou a Dani! 👋</h3>
+ <h3>Hey, it's Dani here 👋</h3>
 
--  Desenvolvedora de software full-stack há 4 anos.
+-  Software Developer FullStack
 
--  Engenharia de Software, PUC-RS.
+-  Software Engineering, PUC-RS.
 
--  Desenvolvimento Web, Senac-RS.
+-  Web Development, Senac-RS.
 
 <br>
 
