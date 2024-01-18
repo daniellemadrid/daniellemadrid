@@ -1,6 +1,6 @@
  <h3>Hey, it's Dani here 👋</h3>
 
--  Software Developer FullStack
+-  FullStack Developer
 
 -  Software Engineering, PUC-RS.
 
