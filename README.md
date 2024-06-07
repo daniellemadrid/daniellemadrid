@@ -1,5 +1,7 @@
  <h1>Olá, Dani aqui!</h1>
 <p>Desenvolvedora de software pleno, atuando nos projetos da Thoughtowkrs, Tecnopuc e Globo.
+
+ 
 💻  Atualmente trabalhando com Typescript
 
 📚  Cursando ensino superior em engenharia de software na PUCRS
