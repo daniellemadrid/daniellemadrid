@@ -1,11 +1,4 @@
- <h3>Hey, it's Dani here 👋</h3>
-
--  FullStack Developer
-
--  Software Engineering, PUC-RS.
-
--  Web Development, Senac-RS.
-
+ <h3></h3>
 <br>
 
 <div>
