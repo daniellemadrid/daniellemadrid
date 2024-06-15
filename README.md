@@ -1,5 +1,5 @@
  <h1>Olá, Dani aqui!</h1>
-<p>Desenvolvedora de software pleno, atuando nos projetos da Thoughtowkrs, Tecnopuc e Globo.
+<p>Desenvolvedora de software, atuando nos projetos da Thoughtowkrs, Tecnopuc e Globo.
 
 👩‍🏫  Líder técnica na Aceleradora Ágil e Aceleradora Inclusiva 
 
