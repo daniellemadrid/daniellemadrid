@@ -1,15 +1,11 @@
  <h1>Olá, Dani aqui!</h1>
-<p>Desenvolvedora de software, atuando nos projetos da Thoughtowkrs, Tecnopuc e Globo.
+<p>Desenvolvedora de software, atuando nos projetos da Thoughtworks, Tecnopuc e Globo.
 
 👩‍🏫  Líder técnica na Aceleradora Ágil e Aceleradora Inclusiva 
 
-💻  Atualmente trabalhando com Typescript
+💻  Atualmente usando Typescript e Java
 
 📚  Cursando ensino superior em engenharia de software na PUCRS
-
-📖  Tecnologias que mais uso: Java e Typescript
-
-📘   Trabalhei em outros projetos com Spring Boot e MySQL
 <br>
 <div>
 <img src="https://media0.giphy.com/media/7FgIb4R4wtE744CyXZ/giphy.gif" width="100" height="100"/>
