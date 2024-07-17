@@ -3,7 +3,7 @@
 
 👩‍🏫  Líder técnica na Aceleradora Ágil e Aceleradora Inclusiva 
 
-💻  Atualmente usando Typescript e Java
+💻  Usando Typescript e Java
 
 🎓  Cursando ensino superior em engenharia de software na PUCRS
 
