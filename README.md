@@ -13,7 +13,7 @@
 - 📘 Using GitHub for college projects and self-study.
 
 <div class="welcome-message">
-  <span id="dynamic-text"></span>
+  <span id="dynamic-text">oi</span>
 </div>
 
 ## Skills and Tools
