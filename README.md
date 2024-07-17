@@ -25,12 +25,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="40" height="40"/>
 </div>
 
-### Tools
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
-</div>
-
-## Find Me 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/daniellermadrid)
