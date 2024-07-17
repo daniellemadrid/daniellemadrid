@@ -12,6 +12,10 @@
 - 💼 Working with TypeScript, Java, and React.
 - 📘 Using GitHub for college projects and self-study.
 
+<div class="welcome-message">
+  <span id="dynamic-text"></span>
+</div>
+
 ## Skills and Tools
 
 <div align="center">
