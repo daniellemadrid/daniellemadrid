@@ -27,4 +27,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </div>
 
+<style>
+  .welcome-message {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+  }
 
+  #dynamic-text {
+    animation: animateWelcome 3s infinite alternate;
+  }
+
+  @keyframes animateWelcome {
+    0% {
+      opacity: 0.2;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
