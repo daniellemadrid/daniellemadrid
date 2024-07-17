@@ -23,8 +23,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </div>
 
-<br>
-  <iframe src="https://giphy.com/embed/UmxAyi9crDhcp4w7OS" width="480" height="60" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UmxAyi9crDhcp4w7OS"></a></p>
-<br>
+<div align="center">
+  <iframe src="https://giphy.com/embed/UmxAyi9crDhcp4w7OS" width="480" height="60" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 
