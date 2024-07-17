@@ -10,14 +10,10 @@
 
 📘 Using GitHub for college projects and self-study.
 
-<br>
-
-<div>
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
   <img src="https://media0.giphy.com/media/7FgIb4R4wtE744CyXZ/giphy.gif" width="100" height="100"/>
   <img src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif" width="100" height="100" />
 </div>
-
-<br>
 
 ### Languages and Tools:
 
