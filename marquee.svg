@@ -2,14 +2,14 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-        .dani {
+        .marquee {
           height: 50px;	
           overflow: hidden;
           position: relative;
         }
-        .dani strong {
+        .marquee strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: purple;
+          color: limegreen;
           position: absolute;
           font-size: 1.2em;
           width: 100%;
@@ -23,7 +23,7 @@
           animation: marquee 7s linear infinite;
         }
 
-        @keyframes dani {
+        @keyframes marquee {
           0%   { 
             transform: translateX(100%); 		
           }
@@ -32,8 +32,7 @@
           }
         }
       </style>
-      <div class="dani">
-        <img src="daniellemadrid\images\dani.svg" alt="Thanks for visiting my profile, see you next time!" width="800" height="50"/>
+      <div class="marquee">
         <strong>Thanks for visiting my profile, see you next time!</strong>
       </div>
 		</div>
