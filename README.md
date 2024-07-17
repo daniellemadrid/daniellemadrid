@@ -25,7 +25,6 @@
 
 <div align="center">
 <img alt="Welcome GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJkdjh0cjl5N2NoNTdtaWlxcjZrMjhnN2RlNzVycmQ4dzRrcHV6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmxAyi9crDhcp4w7OS/giphy.gif">
-  <iframe src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJkdjh0cjl5N2NoNTdtaWlxcjZrMjhnN2RlNzVycmQ4dzRrcHV6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmxAyi9crDhcp4w7OS/giphy.gif" width="480" height="60" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 
