@@ -22,9 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </div>
+<br>
 
-<div align="center">
-<img alt="Welcome GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJkdjh0cjl5N2NoNTdtaWlxcjZrMjhnN2RlNzVycmQ4dzRrcHV6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmxAyi9crDhcp4w7OS/giphy.gif">
-</div>
+
 
 
