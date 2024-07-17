@@ -15,6 +15,7 @@
 <img src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif"  width="100" height="100" />
 </div>
 
+<br>
 <div>
  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width: 100%;">
  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
