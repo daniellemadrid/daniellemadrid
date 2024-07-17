@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .dani {
+    font-family: Arial, sans-serif;
+    color: #4CAF50; 
+    font-size: 1.5em; 
+    position: absolute;
+    white-space: nowrap;
+    animation: marquee 10s linear infinite; 
+  }
+  
+  @keyframes dani {
+    from {
+      transform: translateX(100%); 
+    }
+    to {
+      transform: translateX(-100%); 
+    }
+  }
+  
