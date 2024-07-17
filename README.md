@@ -24,5 +24,6 @@
 </div>
 
 <div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="images\dani.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/DanielleMadrid/daniellemadrid/images/dani.svg" />
 </div>
+
