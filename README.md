@@ -14,5 +14,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
-## Find Me Around the Web
+## Find Me 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/daniellermadrid)
