@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Dani.
 
-<div align="center">
-  <img alt="Cat Smile" height="200" src="images/orange-cat-smile-cat-smile.gif">
-</div>
-
 ## About Me
 
 - 👩‍💻 Software Developer at Thoughtworks, Tecnopuc, and Globo.
